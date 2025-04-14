@@ -1,5 +1,4 @@
-# leetcode_codes
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+🚀 "100+ Days, Countless Problems — Consistency is My Superpower
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
