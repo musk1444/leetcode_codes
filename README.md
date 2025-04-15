@@ -29,4 +29,17 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
+| [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
