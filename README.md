@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2280-count-good-triplets-in-an-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0516-longest-palindromic-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
