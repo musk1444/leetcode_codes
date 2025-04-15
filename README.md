@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2280-count-good-triplets-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
