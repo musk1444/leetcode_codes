@@ -44,14 +44,17 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
