@@ -3,9 +3,19 @@ public:
     int findKthLargest(vector<int>& nums, int k) {
 
         int n = nums.size();
-        sort(begin(nums), end(nums));
+        priority_queue<int, vector<int>, greater<>> minheap;
 
-        return nums[n-k];
+        for(auto num: nums)
+        {
+            minheap.push(num);
+            while(minheap.size() > k)
+            {
+                minheap.pop();
+            }
+        }
+
+        return minheap.top();
+
         
     }
 };
