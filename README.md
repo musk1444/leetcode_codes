@@ -9,6 +9,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/musk1444/leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
@@ -104,6 +105,7 @@
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
@@ -120,11 +122,13 @@
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -151,6 +156,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
+| [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 ## Recursion
 |  |
 | ------- |
