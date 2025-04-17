@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/musk1444/leetcode_codes/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/musk1444/leetcode_codes/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
@@ -52,6 +53,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
