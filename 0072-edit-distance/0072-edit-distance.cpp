@@ -3,13 +3,13 @@ public:
 
 int solve(int i, int j, string& s, string& t,vector<vector<int>>& dp)
 {
-    if(i<0)
+    if(i == 0)
     {
-        return j+1;
+        return j;
     }
-    if(j<0)
+    if(j == 0)
     {
-        return i+1;
+        return i;
     }
 
     if(dp[i][j] != -1)
@@ -17,7 +17,7 @@ int solve(int i, int j, string& s, string& t,vector<vector<int>>& dp)
         return dp[i][j];
     }
 
-    if(s[i] == t[j])
+    if(s[i-1] == t[j-1])
     {
         // if the characters are equal, then we simple move back
         return dp[i][j] =  (0+ solve(i-1,j-1,s,t,dp));
@@ -36,7 +36,7 @@ int solve(int i, int j, string& s, string& t,vector<vector<int>>& dp)
 
         vector<vector<int>> dp(n+1, vector<int>(m+1,-1));
 
-        return solve(n-1,m-1,word1,word2,dp);
+        return solve(n,m,word1,word2,dp);
         
     }
 };
