@@ -9,17 +9,17 @@ bool solve(int i, int j, string& p, string& s,vector<vector<int>>& dp)
         // string 1 humari khatam h or 2 bhi khatam h -> hogya match
         return true;
     }
-    if(i == 0 && j >= 0)
+    if(i == 0 && j > 0)
     {
         // string 1 humari khatam h or 2 abhi nhi khatam h -> cannot match ab
         return false;
     }
     //an dekhte h aar string 2 khatam hogyi h to
-    if(j == 0 && i> 0)
+    if(j == 0 && i > 0)
     {
-        for(int idx = 0; idx < i; idx++)
+        for(int idx = 1; idx <= i; idx++)
         {
-            if(p[idx] != '*')
+            if(p[idx-1] != '*')
             {
                 // agar kahi pe rbhi * value nai h to matlb nai ho skti matching
                 return false;
@@ -53,8 +53,17 @@ bool solve(int i, int j, string& p, string& s,vector<vector<int>>& dp)
         int m = s.length();
 
         vector<vector<int>> dp(n+1, vector<int>(m+1,-1));
+        // vector<vector<int>> dp(n+1, vector<int>(m+1,0));
+
 
         return solve(n,m,p,s,dp);
+
+        // dp[0][0] = true;
+
+        // for(int i = 0; i<=n; i++)
+        // {
+
+        // }
 
     }
 };
