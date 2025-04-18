@@ -32,11 +32,13 @@ public:
         n = prices.size();
 
         // vector<vector<int>> dp(n+1, vector<int>(2,-1));
-        vector<vector<int>> dp(n + 1, vector<int>(2, 0));
+        // vector<vector<int>> dp(n + 1, vector<int>(2, 0));
 
         // return solve(0,1,prices,dp);
+
+        vector<int> ahead(2,0), curr(2,0);
         for (int i = 0; i < 2; i++) {
-            dp[n][i] = 0;
+            ahead[i] = 0;
         }
 
         for (int index = n - 1; index >= 0; index--) {
@@ -45,21 +47,22 @@ public:
 
                 if (buy == 1) {
                     // we are allowed to purchase
-                    int take = -prices[index] + dp[index+1][0];
-                    int not_take = 0 + dp[index+1][1];
+                    int take = -prices[index] + ahead[0];
+                    int not_take = 0 + ahead[1];
                     profit = max(take, not_take);
                 } else {
                     // agar buy nhi kr skte
                     // means we have to sell
-                    int take = prices[index] + dp[index+1][1];
-                    int not_take = 0 + dp[index+1][0];
+                    int take = prices[index] + ahead[1];
+                    int not_take = 0 + ahead[0];
                     profit = max(take, not_take);
                 }
 
-                dp[index][buy] = profit;
+                curr[buy] = profit;
             }
+            ahead = curr;
         }
-        return dp[0][1];
+        return ahead[1];
     }
 
 };
