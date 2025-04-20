@@ -1,37 +1,27 @@
 class Solution {
 public:
-
-bool isgood(int first, int second, int third, int a,int b, int c)
-{
-    return abs(first-second) <= a &&
-    abs(second-third)<=b &&
-    abs(first-third) <= c;
-}
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
 
         int n = arr.size();
         int count = 0;
 
-        for(int i = 0; i<=n-3; i++)
+        for(int i = 0; i<= n-1; i++)
         {
-            for(int j = i+1; j<=n-2; j++)
+            for(int j = i+1; j<= n-1; j++)
             {
                 if(abs(arr[i] - arr[j]) <= a)
                 {
-                for(int k = j+1; k<=n-1; k++)
-                {
-                    if(abs(arr[j] - arr[k]) <= b && abs(arr[i]-arr[k]) <= c)
+                    for(int k = j+1; k<= n-1; k++)
                     {
-                        count++;
+                        if(abs(arr[j] - arr[k]) <= b && abs(arr[i]- arr[k]) <= c)
+                        {
+                            count++;
+                        }
                     }
-                }
                 }
             }
         }
-
         return count;
-
-
         
     }
 };
