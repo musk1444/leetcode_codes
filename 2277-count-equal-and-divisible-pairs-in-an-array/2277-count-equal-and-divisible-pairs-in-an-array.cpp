@@ -3,17 +3,44 @@ public:
     int countPairs(vector<int>& nums, int k) {
 
         int n = nums.size();
-
         int count = 0;
-        for(int i = 0; i<n-1; i++)
+
+        unordered_map<int, vector<int>> indicesmap;
+        for(int i = 0; i<n; i++)
         {
-            for(int j = i+1;j<n; j++)
+            indicesmap[nums[i]].push_back(i);
+        }
+        // k = 26;
+        // = {1,2,3,4,6,18,12}
+        unordered_set<int> div;
+        for(int factor = 1; factor*factor <= k; factor++)
+        {
+            if(k%factor == 0)
             {
-                if((nums[i] == nums[j]) && ((i*j)%k == 0))
-                {
-                    count++;
-                }
+                div.insert(factor);
+                div.insert(k/factor);
             }
+        }
+
+        for(auto &[num, indices]: indicesmap)
+        {
+            unordered_map<int,int> factorsmap;
+            for(auto i:indices)
+            {
+                int GCD = gcd(i,k);
+                int j = k/GCD;
+                
+                count += factorsmap[j];
+                for(int f: div)
+                {
+                    if(i%f == 0)
+                    {
+                        factorsmap[f]++;
+                    }
+                }
+
+            }
+
         }
         return count;
         
