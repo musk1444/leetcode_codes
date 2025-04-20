@@ -15,6 +15,7 @@ public:
         unordered_set<int> div;
         for(int factor = 1; factor*factor <= k; factor++)
         {
+            // we are makign all the factors of k, into a set to keep them
             if(k%factor == 0)
             {
                 div.insert(factor);
@@ -25,10 +26,15 @@ public:
         for(auto &[num, indices]: indicesmap)
         {
             unordered_map<int,int> factorsmap;
+            // we will iterate on factormap to make sure that if the previously seen factor appers
+            // we add it into the result
+            // mpp[factor] is added
             for(auto i:indices)
             {
                 int GCD = gcd(i,k);
+                // finding gcd
                 int j = k/GCD;
+                // finding j
                 
                 count += factorsmap[j];
                 for(int f: div)
