@@ -1,34 +1,29 @@
 class Solution {
 public:
     string countAndSay(int n) {
-
-        if(n == 1) return "1";
-        if(n == 2) return "11";
-
-        string current = "11";
-        for(int i = 3; i<=n; i++)
+        
+        if(n == 1)
         {
-            string next = "";
+            return "1";
+        }
+        string say = countAndSay(n-1);
+        string result = "";
+
+        for(int i = 0; i<say.length(); i++)
+        {
+            char ch = say[i];
             int count = 1;
 
-            for(int j = 1;j<current.size();j++)
+            while(i+1 < say.length() && say[i] == say[i+1])
             {
-                if(current[j] == current[j-1])
-                {
-                    count++;
-                }
-                else
-                {
-                    next+= to_string(count) + current[j-1];
-                    count = 1;
-                }
+                count++;
+                i++;
             }
 
-            next = next + to_string(count) + current.back();
-            current = next;
-
+            result += to_string(count) + string(1,ch);
         }
-        return current;
+
+        return result;
+        
     }
 };
-        
