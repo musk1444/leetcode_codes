@@ -21,6 +21,7 @@
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [1036-rotting-oranges](https://github.com/musk1444/leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
+| [2249-count-the-hidden-sequences](https://github.com/musk1444/leetcode_codes/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
+| [2249-count-the-hidden-sequences](https://github.com/musk1444/leetcode_codes/tree/master/2249-count-the-hidden-sequences) |
 ## Sliding Window
 |  |
 | ------- |
