@@ -34,14 +34,17 @@ int solve(int index, int tr, vector<int>& prices, vector<vector<int>>& dp)
 
         n = prices.size();
 
-        vector<vector<int>> dp(n+1, vector<int>(5,0));
+        // vector<vector<int>> dp(n+1, vector<int>(5,0));
+
+        vector<int> after(5,0);
+        vector<int> curr(5,0);
         for(int tr = 0; tr<=3; tr++)
         {
-            dp[n][tr] = 0;
+            after[tr] = 0;
         }
         for(int index = 0; index<=n; index++)
         {
-            dp[index][4] = 0;
+            curr[4] = 0;
         }
        
 
@@ -53,21 +56,22 @@ int solve(int index, int tr, vector<int>& prices, vector<vector<int>>& dp)
 
                 if(tr % 2 == 0) // even index means we can buy
                 {
-                    int take = -prices[index] + dp[index+1][tr+1];
-                    int nottake = 0 + dp[index+1][tr];
+                    int take = -prices[index] + after[tr+1];
+                    int nottake = 0 + after[tr];
                     profit = max(take,nottake);
 
                 }
                 else
                 {
-                    int take = prices[index] + dp[index+1][tr+1];
-                    int nottake = 0 + dp[index+1][tr];
+                    int take = prices[index] + after[tr+1];
+                    int nottake = 0 + after[tr];
                     profit = max(take,nottake);
                 }
-                dp[index][tr] = profit;
+                curr[tr] = profit;
             }
+            after = curr;
         }
         
-        return dp[0][0];
+        return after[0];
     }
 };
