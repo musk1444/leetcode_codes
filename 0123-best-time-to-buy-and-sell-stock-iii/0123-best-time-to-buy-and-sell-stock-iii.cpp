@@ -71,15 +71,15 @@ int solve(int index, int buy, int cap, vector<int>& prices,vector<vector<vector<
                     int profit = INT_MIN;
                     if(buy == 1)
                     {
-                        int take = -prices[index] + solve(index+1, 0,cap,prices,dp);
-                        int nottake = 0 + solve(index+1,1, cap, prices,dp);
+                        int take = -prices[index] + dp[index+1][0][cap];
+                        int nottake = 0 + dp[index+1][1][cap];
                         profit = max(take,nottake);
                     }
 
                     else // sell krne ka option h
                     {
-                        int take = +prices[index] + solve(index+1, 1,cap-1,prices,dp);
-                        int nottake = 0 + solve(index+1,0, cap, prices,dp);
+                        int take = +prices[index] + dp[index+1][1][cap-1];
+                        int nottake = 0 + dp[index+1][0][cap];
                         profit = max(take,nottake);
                     }
 
