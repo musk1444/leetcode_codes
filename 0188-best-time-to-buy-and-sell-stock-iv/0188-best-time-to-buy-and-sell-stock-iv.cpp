@@ -35,17 +35,18 @@ public:
         // vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2,
         // vector<int>(k+1,-1))); return solve(0,1,k,prices,dp); index, maxlimit
 
-        vector<vector<vector<int>>> dp(
-            n + 1, vector<vector<int>>(2, vector<int>(k + 1, 0)));
+        vector<vector<int>> after(2, vector<int>(k + 1, 0));
+        vector<vector<int>> curr(2, vector<int>(k + 1, 0));
+        
 
         for (int index = 0; index <= n; index++) {
             for (int buy = 0; buy < 2; buy++) {
-                dp[index][buy][0] = 0;
+                curr[buy][0] = 0;
             }
         }
         for (int buy = 0; buy < 2; buy++) {
             for (int cap = 0; cap <= k; cap++) {
-                dp[n][buy][cap] = 0;
+                curr[buy][cap] = 0;
             }
         }
         // we have dealt with the base cases
@@ -55,20 +56,21 @@ public:
                 for (int cap = 1; cap <= k ;cap++) {
                     int profit = INT_MIN;
                     if (buy == 1) {
-                        int take = -prices[index] + dp[index + 1][0][cap];
-                        int nottake = 0 + dp[index + 1][1][cap];
+                        int take = -prices[index] + after[0][cap];
+                        int nottake = 0 + after[1][cap];
                         profit = max(take, nottake);
                     } else {
-                        int take = +prices[index] + dp[index + 1][1][cap - 1];
-                        int nottake = 0 + dp[index + 1][0][cap];
+                        int take = +prices[index] + after[1][cap - 1];
+                        int nottake = 0 + after[0][cap];
                         profit = max(take, nottake);
                     }
 
-                    dp[index][buy][cap] = profit;
+                    curr[buy][cap] = profit;
                 }
             }
+            after = curr;
         }
 
-        return dp[0][1][k];
+        return after[1][k];
     }
 };
