@@ -21,6 +21,7 @@
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [1036-rotting-oranges](https://github.com/musk1444/leetcode_codes/tree/master/1036-rotting-oranges) |
+| [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
 | [2249-count-the-hidden-sequences](https://github.com/musk1444/leetcode_codes/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -44,6 +45,7 @@
 | [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
+| [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/musk1444/leetcode_codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -65,6 +67,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/musk1444/leetcode_codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -141,6 +144,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
+| [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
@@ -160,6 +164,7 @@
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/musk1444/leetcode_codes/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
+| [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -207,6 +212,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Shortest Path
 |  |
