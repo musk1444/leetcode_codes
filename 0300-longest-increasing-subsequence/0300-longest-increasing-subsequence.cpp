@@ -5,6 +5,8 @@ public:
         int n = nums.size();
         vector<int> dp(n,1);
 
+        int maxi = 1;
+
         for(int index = 0; index < n;index++)
         {
             for(int prev = 0; prev<=index - 1; prev++)
@@ -15,9 +17,10 @@ public:
                     dp[index] = max(dp[index], 1 + dp[prev]);
                 }
             }
+            maxi = max(maxi, dp[index]);
         }
 
-        return *max_element(begin(dp), end(dp));
+        return maxi;
         
     }
 };
