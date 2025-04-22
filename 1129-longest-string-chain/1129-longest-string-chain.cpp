@@ -1,5 +1,11 @@
+
+bool static comp(string &s1, string &s2)
+{
+    return s1.size() < s2.size();
+}
 class Solution {
 public:
+
 
 bool  ispossible(string &s1, string &s2)
 {
@@ -31,9 +37,7 @@ bool  ispossible(string &s1, string &s2)
     int longestStrChain(vector<string>& words) {
 
         int n = words.size();
-        sort(words.begin(), words.end(), [](const string &a, const string &b) {
-            return a.length() < b.length();
-        });
+        sort(words.begin(), words.end(), comp);
 
         int maxi = 1;
         vector<int> dp(n,1);
