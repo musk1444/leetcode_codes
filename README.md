@@ -71,6 +71,7 @@
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/musk1444/leetcode_codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0368-largest-divisible-subset](https://github.com/musk1444/leetcode_codes/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/musk1444/leetcode_codes/tree/master/2998-count-symmetric-integers) |
 ## Breadth-First Search
 |  |
@@ -218,4 +220,12 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
