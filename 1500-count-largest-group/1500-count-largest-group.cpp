@@ -1,23 +1,40 @@
 class Solution {
 public:
+
+int sumdigit(int num)
+{
+    int sum = 0;
+    while(num != 0)
+    {
+        sum += num%10;
+        num = num/10;
+    }
+
+    return sum;
+}
     int countLargestGroup(int n) {
-        unordered_map<int, int> hashMap;
-        int maxValue = 0;
-        for (int i = 1; i <= n; ++i) {
-            int key = 0, i0 = i;
-            while (i0) {
-                key += i0 % 10;
-                i0 /= 10;
-            }
-            ++hashMap[key];
-            maxValue = max(maxValue, hashMap[key]);
-        }
+
+        unordered_map<int,int> mpp;
+        int maxsize = 0;
         int count = 0;
-        for (auto& [_, value] : hashMap) {
-            if (value == maxValue) {
-                ++count;
+
+        for(int i = 1; i<=n; i++)
+        {
+            int digitsum = sumdigit(i);
+            mpp[digitsum]++;
+
+            if(mpp[digitsum] == maxsize)
+            {
+                count++;
+            }
+            else if(mpp[digitsum] > maxsize)
+            {
+                maxsize = mpp[digitsum];
+                count = 1;
             }
         }
+
         return count;
+        
     }
 };
