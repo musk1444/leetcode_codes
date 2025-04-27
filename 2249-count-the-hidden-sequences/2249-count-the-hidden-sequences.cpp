@@ -1,12 +1,25 @@
 class Solution {
 public:
-    int numberOfArrays(vector<int>& diff, int lower, int upper) {
-        long sum = 0, maxi = 0, mini = 0;
-        for (int i : diff) {
-            sum += i;
-            maxi = max(maxi, sum);
-            mini = min(mini, sum);
+    int numberOfArrays(vector<int>& differences, int lower, int upper) {
+
+        int minval = 0;
+        int maxval = 0;
+        int curr = 0;
+
+        for(auto d:differences)
+        {
+            curr = curr+d;
+            // we are finding the new val
+
+            minval = min(minval, curr);
+            maxval = max(maxval, curr);
+
+            if(upper - maxval - (lower - minval) + 1 <= 0)
+            {
+                return 0;
+            }
         }
-        return max(0L, upper - lower - maxi + mini + 1);
+        return upper - maxval - (lower - minval) + 1;
+
     }
 };
