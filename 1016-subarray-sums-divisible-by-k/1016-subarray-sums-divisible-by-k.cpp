@@ -17,7 +17,7 @@ public:
             int remainder = sum%k;
             if(remainder < 0)
             {
-                remainder += k;
+                remainder += k; // to avod the edge case fo rnegative rem
             }
             // now we will check if we have previosly seen this remainder
             if(mpp.find(remainder) != mpp.end())
