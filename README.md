@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/musk1444/leetcode_codes/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
@@ -57,6 +58,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/musk1444/leetcode_codes/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/musk1444/leetcode_codes/tree/master/0115-distinct-subsequences) |
@@ -228,6 +230,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Shortest Path
