@@ -18,6 +18,9 @@ public:
                 sum -= nums[i];
                 i++;
             }
+            // i...j
+            //i+1 ..j
+            //i+2 ...j
             count += (j-i+1);
             j++;
         }
