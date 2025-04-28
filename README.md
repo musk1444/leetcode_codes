@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musk1444/leetcode_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/musk1444/leetcode_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/musk1444/leetcode_codes/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/musk1444/leetcode_codes/tree/master/0115-distinct-subsequences) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Shortest Path
@@ -253,4 +256,12 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/musk1444/leetcode_codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
