@@ -101,6 +101,7 @@
 | [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/musk1444/leetcode_codes/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
@@ -111,6 +112,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/musk1444/leetcode_codes/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/musk1444/leetcode_codes/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/musk1444/leetcode_codes/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
