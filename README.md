@@ -242,6 +242,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
+| [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Shortest Path
@@ -272,4 +273,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
