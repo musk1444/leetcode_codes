@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -276,5 +277,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
