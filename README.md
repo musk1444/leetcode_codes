@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
@@ -105,6 +106,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -112,12 +114,14 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Binary Search
 |  |
