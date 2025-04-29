@@ -9,24 +9,26 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-
-        unordered_set<ListNode*> vis;
+        
         if(head == nullptr || head->next == nullptr)
         {
             return false;
         }
-        ListNode* temp = head;
-        while(temp != nullptr)
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != nullptr && fast->next != nullptr)
         {
-            if(vis.count(temp))
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast)
             {
                 return true;
             }
-            vis.insert(temp);
-            temp = temp->next;
         }
-
         return false;
-        
+
+
     }
 };
