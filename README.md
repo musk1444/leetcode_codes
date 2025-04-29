@@ -110,6 +110,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/musk1444/leetcode_codes/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/musk1444/leetcode_codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
@@ -304,9 +305,15 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/musk1444/leetcode_codes/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/musk1444/leetcode_codes/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/musk1444/leetcode_codes/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
