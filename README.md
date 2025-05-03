@@ -24,6 +24,7 @@
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/musk1444/leetcode_codes/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/musk1444/leetcode_codes/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/musk1444/leetcode_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/musk1444/leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/musk1444/leetcode_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -262,6 +263,7 @@
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/musk1444/leetcode_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/musk1444/leetcode_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Recursion
 |  |
