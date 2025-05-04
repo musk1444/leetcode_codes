@@ -63,6 +63,7 @@
 | [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
+| [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/musk1444/leetcode_codes/tree/master/0368-largest-divisible-subset) |
+| [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/musk1444/leetcode_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -362,4 +364,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/musk1444/leetcode_codes/tree/master/0460-lfu-cache) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
