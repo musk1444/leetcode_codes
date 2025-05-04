@@ -184,6 +184,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/musk1444/leetcode_codes/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
@@ -322,6 +323,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/musk1444/leetcode_codes/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 ## Memoization
 |  |
@@ -347,8 +349,10 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/musk1444/leetcode_codes/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/musk1444/leetcode_codes/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
