@@ -1,22 +1,47 @@
 class Solution {
 public:
+int n;
+
+int solve(vector<int>& prices, int index, int buy, vector<vector<int>>& dp)
+{
+    if(index >= n)
+    {
+        return 0;
+    }
+    if(dp[index][buy] != -1)
+    {
+        return dp[index][buy];
+    }
+
+    int profit = INT_MIN;
+    if(buy == 1)
+    {
+        // we can buy so we choose either to buy or not buy
+        int take = -prices[index] + solve(prices,index+1,0,dp);
+        int not_take = solve(prices,index+1,1,dp);
+
+        profit = max(take,not_take);
+
+    }
+
+    else // we want to sell
+    {
+        // we will either sell or not sell
+        int take = prices[index] + solve(prices,index+1,1,dp);
+        int not_take = solve(prices,index+1,0,dp);
+
+        profit = max(take,not_take);
+    }
+
+    return dp[index][buy] = profit;
+}
     int maxProfit(vector<int>& prices) {
 
-        int n = prices.size();
-        int aheadnotbuy = 0;
-        int aheadbuy = 0;
+        n = prices.size();
+        vector<vector<int>> dp(n+1, vector<int>(2,-1));
+
+        return solve(prices,0,1,dp);
+
         
-        int currnotbuy, currbuy;
-        for(int i = n-1; i>= 0; i--)
-        {
-            currnotbuy = max((prices[i] + aheadbuy), (0 + aheadnotbuy));
-
-            currbuy = max( (-prices[i] + aheadnotbuy), (0 + aheadbuy));
-
-            aheadbuy = currbuy;
-            aheadnotbuy = currnotbuy;
-        }
-
-        return aheadbuy;
     }
 };
