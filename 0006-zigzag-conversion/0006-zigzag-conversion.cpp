@@ -2,23 +2,24 @@ class Solution {
 public:
     string convert(string s, int numRows) {
 
-        int nr = numRows;
-        if(nr == 1)
+        int n = numRows;
+        if(n == 1)
         {
             return s;
         }
-        vector<string> rows(nr);
-        bool isdown = true;
+
+        vector<string> rows(n);
+        bool down = true;
 
         for(int i = 0, j = 0; i<s.size(); i++)
         {
-            rows[j].push_back(s[i]);
-            if(isdown)
+            rows[j].push_back(s[i]); // j ko push back krdo uss row me
+            if(down)
             {
-                if(j == nr-1)
+                if(j == n-1)
                 {
+                    down = false;
                     j--;
-                    isdown = false;
                 }
                 else
                 {
@@ -27,16 +28,16 @@ public:
             }
             else
             {
-                if(j == 0)
+                // agar down true nai h to
+                if( j == 0)
                 {
-                    isdown = true;
+                    down = true;
                     j++;
                 }
                 else
                 {
                     j--;
                 }
-
             }
         }
 
