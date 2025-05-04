@@ -2,76 +2,48 @@ class Solution {
 public:
 int n;
 
-int solve(int index, int tr, vector<int>& prices, vector<vector<int>>& dp)
+int solve(vector<int>& prices, int index, int buy, int cap,vector<vector<vector<int>>>& dp)
 {
-    if(index == n || tr == 4)
+    if(index >= n) return 0;
+    if(cap == 0) return 0;
+    // means we have exhausted our limit
+
+    if(dp[index][buy][cap] != -1)
     {
-        return 0;
+        return dp[index][buy][cap];
     }
-    if(dp[index][tr] != -1)
-    {
-        return dp[index][tr];
-    }
+
     int profit = INT_MIN;
 
-    if(tr % 2 == 0) // even index means we can buy
+    if(buy == 1)
     {
-        int take = -prices[index] + solve(index+1, tr+1,prices,dp);
-        int nottake = 0 + solve(index+1, tr,prices,dp);
-        profit = max(take,nottake);
+        int take = -prices[index] + solve(prices,index+1,0,cap,dp);
+        int nottake = solve(prices,index+1,1,cap,dp);
 
-    }
-    else
-    {
-        int take = +prices[index] + solve(index+1, tr+1,prices,dp);
-        int nottake = 0 + solve(index+1, tr,prices,dp);
         profit = max(take,nottake);
     }
+    else // you can sell
+    {
+        int take = +prices[index] + solve(prices,index+1,1,cap-1,dp);
+        int nottake = solve(prices,index+1,0,cap,dp);
 
-    return dp[index][tr] = profit;
+        profit = max(take,nottake);
+    }
+
+    return dp[index][buy][cap] = profit;
 }
+
     int maxProfit(vector<int>& prices) {
 
         n = prices.size();
 
-        // vector<vector<int>> dp(n+1, vector<int>(5,0));
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(3,-1)));
 
-        vector<int> after(5,0);
-        vector<int> curr(5,0);
-        for(int tr = 0; tr<=3; tr++)
-        {
-            after[tr] = 0;
-        }
-        for(int index = 0; index<=n; index++)
-        {
-            curr[4] = 0;
-        }
-       
+        return solve(prices,0,1,2,dp);
+        // index, buy, cap
 
-        for(int index = n-1; index >=0; index--)
-        {
-            for(int tr = 3; tr >= 0; tr--)
-            {
-                int profit = INT_MIN;
 
-                if(tr % 2 == 0) // even index means we can buy
-                {
-                    int take = -prices[index] + after[tr+1];
-                    int nottake = 0 + after[tr];
-                    profit = max(take,nottake);
 
-                }
-                else
-                {
-                    int take = prices[index] + after[tr+1];
-                    int nottake = 0 + after[tr];
-                    profit = max(take,nottake);
-                }
-                curr[tr] = profit;
-            }
-            after = curr;
-        }
         
-        return after[0];
     }
 };
