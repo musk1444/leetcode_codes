@@ -34,7 +34,9 @@ public:
 
         vector<vector<int>> dp(n + 2, vector<int>(2, 0));
 
-      
+        for (int buy = 0; buy < 2; buy++) {
+            dp[n+1][buy] = 0;
+        }
 
         for (int index = n - 1; index >= 0; index--) {
             for (int buy = 0; buy < 2; buy++) {
