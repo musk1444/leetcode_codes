@@ -182,6 +182,7 @@
 | [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/musk1444/leetcode_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/musk1444/leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
@@ -319,6 +320,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/musk1444/leetcode_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 ## Memoization
@@ -341,4 +343,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/musk1444/leetcode_codes/tree/master/0098-validate-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
