@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/musk1444/leetcode_codes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/musk1444/leetcode_codes/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/musk1444/leetcode_codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -220,6 +221,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/musk1444/leetcode_codes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/musk1444/leetcode_codes/tree/master/0347-top-k-frequent-elements) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/musk1444/leetcode_codes/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/musk1444/leetcode_codes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/musk1444/leetcode_codes/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/musk1444/leetcode_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
