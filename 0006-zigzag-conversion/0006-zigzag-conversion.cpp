@@ -7,13 +7,14 @@ public:
         {
             return s;
         }
+        vector<string> rows(n); // we create a vector of string of size numrows for
+        // storing each row
 
-        vector<string> rows(n);
         bool down = true;
 
-        for(int i = 0, j = 0; i<s.size(); i++)
+        for(int i = 0,j=0; i<s.size(); i++)
         {
-            rows[j].push_back(s[i]); // j ko push back krdo uss row me
+            rows[j].push_back(s[i]);
             if(down)
             {
                 if(j == n-1)
@@ -28,11 +29,10 @@ public:
             }
             else
             {
-                // agar down true nai h to
-                if( j == 0)
+                if(j == 0)
                 {
-                    down = true;
                     j++;
+                    down = true;
                 }
                 else
                 {
@@ -40,7 +40,7 @@ public:
                 }
             }
         }
-
+        
         string ans = "";
         for(int i = 0; i<rows.size(); i++)
         {
@@ -48,6 +48,7 @@ public:
         }
 
         return ans;
+
         
     }
 };
