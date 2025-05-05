@@ -3,48 +3,40 @@ public:
 
 string generate(string& word)
 {
-    int hash[26] = {0};
+    vector<int> hash(26,0);
+    string newword = "";
 
     for(auto &ch:word)
     {
         hash[ch-'a']++;
-        // we keep addign the character frequency
     }
-
-    string new_word = "";
     for(int i = 0; i<26; i++)
     {
-        int freq = hash[i]; // take out the frequency of that character
+        int freq = hash[i];
         if(freq > 0)
         {
-           new_word += string(freq, i-'a');
+            newword += string(freq,i-'a');
         }
     }
 
-    return new_word;
-
+    return newword;
 }
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
 
         int n = strs.size();
         unordered_map<string, vector<string>> mpp;
-        
-        vector<vector<string>> result;
 
-        for(int i = 0; i<n; i++)
+        for(auto word:strs)
         {
-            string word = strs[i];
-            string new_word = generate(word);
-
-            mpp[new_word].push_back(word);
+            string newword = generate(word);
+            mpp[newword].push_back(word);
         }
-
+        vector<vector<string>> ans;
         for(auto it:mpp)
         {
-            result.push_back(it.second);
+            ans.push_back(it.second);
         }
-
-        return result;
+        return ans;
         
     }
 };
