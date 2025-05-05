@@ -90,6 +90,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/musk1444/leetcode_codes/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
