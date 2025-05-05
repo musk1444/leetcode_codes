@@ -1,40 +1,69 @@
 class Solution {
 public:
-    int maxTaskAssign(vector<int>& tasks, vector<int>& workers, int pills, int strength) {
-        int left = 0, right = min(tasks.size(), workers.size());
 
-        sort(tasks.begin(), tasks.end());
-        sort(workers.begin(), workers.end());
+bool ispossible(vector<int>& tasks, vector<int>& workers, int& pills, int& strength, int& mid)
+{
+    int pillsused = 0;
+    multiset<int> st(begin(workers), begin(workers) + mid); // we keep this to find out the 
+    // lower bound to select whom to give the pills
 
-        while(left < right) {
-            int mid = (left + right + 1) / 2;
-            int usedPills = 0;
-            multiset<int> workersFree(workers.end() - mid, workers.end());
+    for(int i = mid-1; i>= 0;i--)
+    {
+        int required = tasks[i];
 
-            bool canAssign = true;
-            for(int i = mid - 1; i >= 0; --i) {
-                auto it = prev(workersFree.end());
+        // this gives the last value in our multiset
+         
+        auto it = prev(st.end());
 
-                if(*it < tasks[i]) {
-                    it = workersFree.lower_bound(tasks[i] - strength);
-                    if(it == workersFree.end()) {
-                        canAssign = false;
-                        break;
-                    }
-                    ++usedPills;
-                    if(usedPills > pills) {
-                        canAssign = false;
-                        break;
-                    }
-                }
-                workersFree.erase(it);
-            }
-
-            if(canAssign)
-                left = mid;
-            else
-                right = mid - 1;
+        if(*it >= required)
+        {
+            st.erase(it);
         }
-        return left;
+        else if(pillsused >= pills)
+        {
+            return false;
+        }
+        else
+        {
+            // we will find the lower bound for our pills to be used
+            auto weakestworkerit = st.lower_bound(required-strength);
+            if(weakestworkerit == st.end())
+            {
+                // koi worker aisa mila hi nai
+                return false;
+            }
+            st.erase(weakestworkerit);
+            pillsused++;
+        }
+    }
+    return true;
+}
+    int maxTaskAssign(vector<int>& tasks, vector<int>& workers, int pills, int strength) {
+        
+        int m = tasks.size();
+        int n = workers.size();
+
+        int l = 0;
+        int r = min(m,n);
+
+        sort(begin(tasks),end(tasks));
+        sort(begin(workers),end(workers), greater<int>());
+
+        int result = 0;
+
+        while(l <= r)
+        {
+            int mid = l+(r-l)/2;
+            if(ispossible(tasks,workers,pills,strength,mid))
+            {
+                result = mid;
+                l = mid+1;
+            }
+            else
+            {
+                r = mid-1;
+            }
+        }
+    return result;
     }
 };
