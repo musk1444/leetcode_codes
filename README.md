@@ -50,6 +50,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/musk1444/leetcode_codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/musk1444/leetcode_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/musk1444/leetcode_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/musk1444/leetcode_codes/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Enumeration
 |  |
@@ -153,6 +154,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/musk1444/leetcode_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/musk1444/leetcode_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/musk1444/leetcode_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/musk1444/leetcode_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/musk1444/leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/musk1444/leetcode_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/musk1444/leetcode_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -322,6 +326,7 @@
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/musk1444/leetcode_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/musk1444/leetcode_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Combinatorics
 |  |
 | ------- |
