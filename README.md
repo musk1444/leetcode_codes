@@ -36,6 +36,7 @@
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/musk1444/leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/musk1444/leetcode_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/musk1444/leetcode_codes/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/musk1444/leetcode_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
