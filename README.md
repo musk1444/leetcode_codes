@@ -42,6 +42,7 @@
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
 | [2048-build-array-from-permutation](https://github.com/musk1444/leetcode_codes/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/musk1444/leetcode_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/musk1444/leetcode_codes/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2280-count-good-triplets-in-an-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/musk1444/leetcode_codes/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
@@ -224,6 +226,7 @@
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/musk1444/leetcode_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/musk1444/leetcode_codes/tree/master/1500-count-largest-group) |
+| [2215-finding-3-digit-even-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2915-count-of-interesting-subarrays) |
@@ -259,6 +262,7 @@
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/musk1444/leetcode_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
