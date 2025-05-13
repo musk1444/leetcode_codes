@@ -81,6 +81,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
+| [0868-push-dominoes](https://github.com/musk1444/leetcode_codes/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
@@ -110,6 +111,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/musk1444/leetcode_codes/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/musk1444/leetcode_codes/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
@@ -338,6 +340,7 @@
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/musk1444/leetcode_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
+| [0868-push-dominoes](https://github.com/musk1444/leetcode_codes/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/musk1444/leetcode_codes/tree/master/2699-count-the-number-of-fair-pairs) |
