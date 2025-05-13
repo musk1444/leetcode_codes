@@ -1,33 +1,75 @@
 class Solution {
 public:
-        string pushDominoes(string s) {
-    int N = s.size(), right = -1;
-    for (int i = 0; i < N; ++i) {
-        if (s[i] == 'L') {
-            if (right == -1) { 
-                // Step 2
-                for (int j = i - 1; j >= 0 && s[j] == '.'; --j) {
-                  s[j] = 'L';  
-                } 
-            } else {
-                // Step 8
-                for (int j = right + 1, k = i - 1; j < k; ++j, --k) {
-                    s[j] = 'R';
-                    s[k] = 'L';
-                } 
-                right = -1;
-            }
-        } else if (s[i] == 'R') {
-            if (right != -1) {
-                for (int j = right + 1; j < i; ++j) s[j] = 'R';
-            }
-            right = i;
-        }
-    }
-    if (right != -1) {
-        for (int j = right + 1; j < N; ++j) s[j] = 'R';
-    }
-    return s;
+    string pushDominoes(string d) {
 
+        int n = d.length();
+        vector<int> leftclosestr(n);
+        vector<int> rightclosestl(n);
+
+        // move form left to right
+        // to find left closest R
+        for(int i = 0; i<n; i++)
+        {
+            if(d[i] == 'R')
+            {
+                leftclosestr[i] = i; // R push starts from me 
+            }
+            else if(d[i] == '.')
+            {
+                leftclosestr[i] = i>0 ? leftclosestr[i-1] : -1;
+            }
+            else
+            {
+                leftclosestr[i] = -1;
+            }
+        }
+
+        // move from right to left
+        // to find closest right that has L
+        for(int i = n-1; i>=0; i--)
+        {
+            if(d[i] == 'L')
+            {
+                rightclosestl[i] = i; // R push starts from me 
+            }
+            else if(d[i] == '.')
+            {
+                rightclosestl[i] = i<n-1 ? rightclosestl[i+1] : -1;
+            }
+            else
+            {
+                rightclosestl[i] = -1;
+            }
+        }
+
+        string result(n,' ');
+        for(int i = 0; i<n; i++)
+        {
+            int distleftr = abs(i-leftclosestr[i]);
+            int distrightl = abs(i-rightclosestl[i]);
+
+            if(leftclosestr[i] == rightclosestl[i])
+            {
+                result[i] = '.';
+            }
+            else if(rightclosestl[i] == -1)
+            {
+                result[i] = 'R';
+            }
+            else if(leftclosestr[i] == -1)
+            {
+                result[i] = 'L';
+            }
+            else if(distleftr == distrightl)
+            {
+                result[i] = '.'; 
+            }
+            else
+            {
+                result[i] = distrightl < distleftr ? 'L' : 'R';
+            }
+        }
+        return result;
+        
     }
 };
