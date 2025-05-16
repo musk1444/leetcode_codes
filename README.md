@@ -399,6 +399,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/musk1444/leetcode_codes/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/musk1444/leetcode_codes/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0908-middle-of-the-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/musk1444/leetcode_codes/tree/master/2196-reverse-nodes-in-even-length-groups) |
