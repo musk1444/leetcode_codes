@@ -122,6 +122,7 @@
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/musk1444/leetcode_codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/musk1444/leetcode_codes/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/musk1444/leetcode_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/musk1444/leetcode_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
