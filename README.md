@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/musk1444/leetcode_codes/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/musk1444/leetcode_codes/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/musk1444/leetcode_codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musk1444/leetcode_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/musk1444/leetcode_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0015-3sum](https://github.com/musk1444/leetcode_codes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/musk1444/leetcode_codes/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/musk1444/leetcode_codes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/musk1444/leetcode_codes/tree/master/0217-contains-duplicate) |
@@ -351,6 +353,7 @@
 | [0011-container-with-most-water](https://github.com/musk1444/leetcode_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/musk1444/leetcode_codes/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/musk1444/leetcode_codes/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/musk1444/leetcode_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musk1444/leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0868-push-dominoes](https://github.com/musk1444/leetcode_codes/tree/master/0868-push-dominoes) |
