@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/musk1444/leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/musk1444/leetcode_codes/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/musk1444/leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/musk1444/leetcode_codes/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/musk1444/leetcode_codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musk1444/leetcode_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -229,6 +230,7 @@
 | [0001-two-sum](https://github.com/musk1444/leetcode_codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/musk1444/leetcode_codes/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/musk1444/leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/musk1444/leetcode_codes/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/musk1444/leetcode_codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/musk1444/leetcode_codes/tree/master/0127-word-ladder) |
@@ -324,6 +326,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/musk1444/leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/musk1444/leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/musk1444/leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
