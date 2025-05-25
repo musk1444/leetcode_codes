@@ -1,18 +1,49 @@
 class Solution {
 public:
-    int minDominoRotations(vector<int>& A, vector<int>& B) {
-        vector<int> countA(7), countB(7), same(7);
-        int n = A.size();
-        for (int i = 0; i < n; ++i) {
-            countA[A[i]]++;
-            countB[B[i]]++;
-            if (A[i] == B[i])
-                same[A[i]]++;
+
+int n;
+
+int find(vector<int>& tops, vector<int>& bottoms, int& value)
+{
+    int swap_top = 0;
+    int swap_bottom = 0;
+
+    for(int i = 0; i<n; i++)
+    {
+        if(tops[i] != value && bottoms[i] != value)
+        {
+            return -1;
+        } 
+        else if(tops[i] != value)
+        {
+            swap_top++;
         }
-        for (int i  = 1; i < 7; ++i)
-            if (countA[i] + countB[i] - same[i] == n)
-                return n - max(countA[i], countB[i]);
-        return -1;
-    }        
-    
+        else if(bottoms[i] != value)
+        {
+            swap_bottom++;
+        }
+    }
+
+    return min(swap_top,swap_bottom);
+
+}
+    int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
+
+        n = tops.size();
+        // we simply check if we can make value for every top and bottom
+        int result = INT_MAX;
+
+        for(int val = 1; val <= 6; val++)
+        {
+            int steps = find(tops,bottoms,val);
+            if(steps != -1)
+            {
+                result = min(result,steps);
+            } 
+        }
+        return result == INT_MAX ? -1: result;
+
+
+        
+    }
 };
