@@ -154,6 +154,7 @@
 | [2050-count-good-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/musk1444/leetcode_codes/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/musk1444/leetcode_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/musk1444/leetcode_codes/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/musk1444/leetcode_codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/musk1444/leetcode_codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
