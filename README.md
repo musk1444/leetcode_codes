@@ -173,6 +173,7 @@
 | [1036-rotting-oranges](https://github.com/musk1444/leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/musk1444/leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/musk1444/leetcode_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/musk1444/leetcode_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
 | ------- |
@@ -449,6 +451,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/musk1444/leetcode_codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/musk1444/leetcode_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/musk1444/leetcode_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
