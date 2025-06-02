@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musk1444/leetcode_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/musk1444/leetcode_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/musk1444/leetcode_codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/musk1444/leetcode_codes/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/musk1444/leetcode_codes/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/musk1444/leetcode_codes/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/musk1444/leetcode_codes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -369,6 +370,7 @@
 | [0011-container-with-most-water](https://github.com/musk1444/leetcode_codes/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/musk1444/leetcode_codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/musk1444/leetcode_codes/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/musk1444/leetcode_codes/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
