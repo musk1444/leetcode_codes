@@ -97,6 +97,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/musk1444/leetcode_codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0868-push-dominoes](https://github.com/musk1444/leetcode_codes/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/musk1444/leetcode_codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
@@ -357,6 +358,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/musk1444/leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/musk1444/leetcode_codes/tree/master/0684-redundant-connection) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/musk1444/leetcode_codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
