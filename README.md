@@ -41,6 +41,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/musk1444/leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/musk1444/leetcode_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/musk1444/leetcode_codes/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/musk1444/leetcode_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/musk1444/leetcode_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/musk1444/leetcode_codes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/musk1444/leetcode_codes/tree/master/1656-count-good-triplets) |
@@ -102,6 +103,7 @@
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/musk1444/leetcode_codes/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/musk1444/leetcode_codes/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/musk1444/leetcode_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/musk1444/leetcode_codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/musk1444/leetcode_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/musk1444/leetcode_codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -200,6 +202,7 @@
 | [0733-flood-fill](https://github.com/musk1444/leetcode_codes/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/musk1444/leetcode_codes/tree/master/0820-find-eventual-safe-states) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/musk1444/leetcode_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/musk1444/leetcode_codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/musk1444/leetcode_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -514,4 +517,8 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/musk1444/leetcode_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/musk1444/leetcode_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
