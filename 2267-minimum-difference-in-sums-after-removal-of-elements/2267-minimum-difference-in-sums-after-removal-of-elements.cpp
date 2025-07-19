@@ -1,52 +1,57 @@
 class Solution {
 public:
     long long minimumDifference(vector<int>& nums) {
-        int n = nums.size();
-        int k = n / 3;
 
-        vector<long long> leftMins(n), rightMaxs(n);
-        priority_queue<int> maxLeftHeap; // max-heap for smallest k
-        priority_queue<int, vector<int>, greater<int>> minRightHeap; // min-heap for largest k
+        int N = nums.size();
+        int n = N/3;
 
-        long long leftSum = 0, rightSum = 0, minDiff = LLONG_MAX;
+        vector<long long> leftminsum(N,0);
+        // we will need 2 vectors to store the leftminsum until i
+        // and the rightmax sum as well
+        vector<long long> rightmaxsum(N,0);
 
-        // Build leftMins
-        for (int i = 0; i < k; ++i) {
-            maxLeftHeap.push(nums[i]);
-            leftSum += nums[i];
-        }
-        leftMins[k - 1] = leftSum;
+        priority_queue<int> maxheap;
+        long long leftsum = 0;
+        for(int i = 0; i<2*n; i++)
+        {
+            // we will keep adding the number
+            maxheap.push(nums[i]);
+            leftsum += nums[i];
 
-        for (int i = k; i < n - k; ++i) {
-            if (!maxLeftHeap.empty() && nums[i] < maxLeftHeap.top()) {
-                leftSum += nums[i] - maxLeftHeap.top();
-                maxLeftHeap.pop();
-                maxLeftHeap.push(nums[i]);
+            if(maxheap.size() > n)
+            {
+                leftsum -= maxheap.top();
+                maxheap.pop();
             }
-            leftMins[i] = leftSum;
+
+            leftminsum[i] = leftsum;
         }
 
-        // Build rightMaxs
-        for (int i = n - 1; i >= n - k; --i) {
-            minRightHeap.push(nums[i]);
-            rightSum += nums[i];
-        }
-        rightMaxs[n - k] = rightSum;
+        priority_queue<int, vector<int>, greater<int>> minheap;
+        long long rightsum = 0;
 
-        for (int i = n - k - 1; i >= k - 1; --i) {
-            if (!minRightHeap.empty() && nums[i] > minRightHeap.top()) {
-                rightSum += nums[i] - minRightHeap.top();
-                minRightHeap.pop();
-                minRightHeap.push(nums[i]);
+        for(int i = N-1; i>=n; i--)
+        {
+            minheap.push(nums[i]);
+            rightsum += nums[i];
+
+            if(minheap.size() > n)
+            {
+                rightsum -= minheap.top();
+                minheap.pop();
             }
-            rightMaxs[i] = rightSum;
+
+            rightmaxsum[i] = rightsum;
         }
 
-        // Compute min difference
-        for (int i = k - 1; i < n - k; ++i) {
-            minDiff = min(minDiff, leftMins[i] - rightMaxs[i + 1]);
+        //we will now find the result
+        long long result = LLONG_MAX;
+        for(int i = n-1; i<=2*n-1; i++)
+        {
+            result = min(result, leftminsum[i] - rightmaxsum[i+1]);
         }
 
-        return minDiff;
+        return result;
     }
+        
 };
