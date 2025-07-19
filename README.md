@@ -50,6 +50,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/musk1444/leetcode_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/musk1444/leetcode_codes/tree/master/2249-count-the-hidden-sequences) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/musk1444/leetcode_codes/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/musk1444/leetcode_codes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/musk1444/leetcode_codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -143,6 +144,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/musk1444/leetcode_codes/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/musk1444/leetcode_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/musk1444/leetcode_codes/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/musk1444/leetcode_codes/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/musk1444/leetcode_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/musk1444/leetcode_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -335,6 +337,7 @@
 | [0621-task-scheduler](https://github.com/musk1444/leetcode_codes/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/musk1444/leetcode_codes/tree/master/1753-path-with-minimum-effort) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/musk1444/leetcode_codes/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/musk1444/leetcode_codes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/musk1444/leetcode_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/musk1444/leetcode_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
