@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/musk1444/leetcode_codes/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/musk1444/leetcode_codes/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/musk1444/leetcode_codes/tree/master/0368-largest-divisible-subset) |
 | [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
@@ -407,6 +408,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/musk1444/leetcode_codes/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/musk1444/leetcode_codes/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/musk1444/leetcode_codes/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -516,6 +518,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/musk1444/leetcode_codes/tree/master/0342-power-of-four) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/musk1444/leetcode_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
 |  |
