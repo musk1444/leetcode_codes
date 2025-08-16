@@ -164,6 +164,7 @@
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/musk1444/leetcode_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/musk1444/leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/musk1444/leetcode_codes/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/musk1444/leetcode_codes/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/musk1444/leetcode_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -395,6 +396,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/musk1444/leetcode_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/musk1444/leetcode_codes/tree/master/1448-maximum-69-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/musk1444/leetcode_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/musk1444/leetcode_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/musk1444/leetcode_codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
