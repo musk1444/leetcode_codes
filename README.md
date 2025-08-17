@@ -138,6 +138,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/musk1444/leetcode_codes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/musk1444/leetcode_codes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/musk1444/leetcode_codes/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/musk1444/leetcode_codes/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/musk1444/leetcode_codes/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/musk1444/leetcode_codes/tree/master/1129-longest-string-chain) |
@@ -162,6 +163,7 @@
 | [0368-largest-divisible-subset](https://github.com/musk1444/leetcode_codes/tree/master/0368-largest-divisible-subset) |
 | [0592-fraction-addition-and-subtraction](https://github.com/musk1444/leetcode_codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/musk1444/leetcode_codes/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/musk1444/leetcode_codes/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/musk1444/leetcode_codes/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/musk1444/leetcode_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/musk1444/leetcode_codes/tree/master/1448-maximum-69-number) |
@@ -310,6 +312,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musk1444/leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/musk1444/leetcode_codes/tree/master/0076-minimum-window-substring) |
+| [0867-new-21-game](https://github.com/musk1444/leetcode_codes/tree/master/0867-new-21-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/musk1444/leetcode_codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/musk1444/leetcode_codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/musk1444/leetcode_codes/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -526,4 +529,8 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/musk1444/leetcode_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/musk1444/leetcode_codes/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
